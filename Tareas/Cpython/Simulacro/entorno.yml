@@ -1,0 +1,5 @@
+name: simulacro
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+prefix: /home/gabriel-cazasola-miranda/miniconda3/envs/simulacro
