@@ -1,0 +1,14 @@
+/home/gabriel-cazasola-miranda/Vídeos/IMT-231_GabrielCazasola/Tareas/Cpython/Simulacro
+├── entorno.yml
+├── estructura.txt
+├── main.py
+├── operaciones
+│   ├── __init__.py
+│   ├── op1.py
+│   ├── op2.py
+│   ├── op3.py
+│   ├── op4.py
+│   └── op5.py
+└── simulacro.yml
+
+2 directories, 10 files
